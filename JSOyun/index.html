@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang=" tr">
+<head>
+    <meta charset="UTF-8">
+    <title>One Day Better-Web Oyunu</title>
+    <style>
+        canvas{
+            border: 2px solid #000;
+            display: block;
+            margin: 20px auto;
+            background-color: #eef;
+        }
+
+    
+
+
+
+    
+    #gameMessage {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.7); 
+    color: white; 
+    padding: 20px; 
+    border-radius: 10px;
+    font-size: 24px;
+    display: none;
+    z-index: 10;
+     }
+  
+     #restartBtn{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 20px;
+    display: none;
+    z-index: 11;
+    border-radius: 8px;
+    border: none;
+    background: #4CAF50;
+    color: white;
+    cursor: pointer;
+     }
+     #activityMenu {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    display: none;
+    z-index: 1000;
+    text-align: center;
+  }
+
+  /* İkinci blok */
+  #activityMenu button {
+    background-color: #ffd966;
+    color: #333;
+    border: 2px solid #cc9933;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+
+  #activityMenu button:hover {
+    background-color: #ffee99;
+    transform: scale(1.1);
+  }
+     </style>
+     </head>
+  
+    <body onload="startGame()">
+        <canvas id="gameCanvas" width="800" height="600"></canvas>
+    <div id="gameMessage">Günü tamamladın!</div>
+    <div id="activityMenu" style="display:none;">
+    <h3>Bir aktivite seç:</h3>
+    <button onclick="selectActivity('clean')">Temizlik</button>
+    <button onclick="selectActivity('cook')">Yemek Yap</button>
+    <button onclick="selectActivity('read')">Kitap Oku</button>
+</div>
+
+    <button id="restartBtn" onclick="restartGame()">Tekrar Oyna</button>
+    <script src="game.js"></script>
+
+</body>
+</html>
