@@ -6,13 +6,11 @@ Oyun Özeti
 
 Oyunda bir kedi karakterini kontrol edersiniz.Kedi karakteri sağ sol tuşlarıyla haraket eder, w tuşuyla zıplar ve boşluk tuşuyla miyavlar. Kedi miyavladıkça sahibi haraket eder ve çeşitli aktiviteler yapar. Amacınız, sahibinizi uyandırıp temizlik, yemek yapma, kitap okuma gibi aktiviteleri yaptırmak ve maksimum skoru elde etmektir. Aktivite seçimi, belirli noktalarda oyuncuya sunulan bir menü ile yapılır.
 Oyundan birkaç ekran görüntüsü;
-![
-    
-](<Ekran görüntüsü 2025-05-22 163802-2.png>) 
-](<Ekran görüntüsü 2025-05-22 163815-1.png>)
-![
-    
-](<Ekran görüntüsü 2025-05-22 163833.png>)
+ 
+
+ 
+
+ 
  Projeyi İndirme
 
 Projeyi GitHub’dan ya da başka bir depodan şu şekilde indirebilirsiniz:
@@ -24,7 +22,6 @@ veya ZIP olarak indirip çıkarabilirsiniz.
 1. Proje klasörünü açın.
 2. `index.html` dosyasına çift tıklayın ya da bir tarayıcıda açın.
 3. Oyun doğrudan çalışacaktır (herhangi bir sunucu gerekmez).
-
 
 
  Testler
@@ -51,7 +48,18 @@ Proje küçük ve görsel tabanlı olduğundan özel bir test sistemi bulunmamak
 
 Oyunda Kullanılan Assetler
 https://pixabay.com/illustrations/cat-cartoon-kitten-kitty-animal-5746771/= Kedi Karakteri
+
 https://icons8.com/icons/set/awake-person=Owner Karakteri
+
 https://www.vecteezy.com=Arka Plan İçin Görseller
 
-Oyuna https://RabiaCelep.github.io/JSOyun sitesinden ulaşabilirsiniz. # RabiaCelep.github.io
+Oyuna https://RabiaCelep.github.io/JSOyun sitesinden ulaşabilirsiniz.
+
+
+
+
+
+
+
+
+
