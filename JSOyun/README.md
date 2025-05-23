@@ -5,16 +5,7 @@ Bu proje, *"One Day Better"* oyunundan esinlenerek HTML5 Canvas ve JavaScript ku
 Oyun Özeti
 
 Oyunda bir kedi karakterini kontrol edersiniz.Kedi karakteri sağ sol tuşlarıyla haraket eder, w tuşuyla zıplar ve boşluk tuşuyla miyavlar. Kedi miyavladıkça sahibi haraket eder ve çeşitli aktiviteler yapar. Amacınız, sahibinizi uyandırıp temizlik, yemek yapma, kitap okuma gibi aktiviteleri yaptırmak ve maksimum skoru elde etmektir. Aktivite seçimi, belirli noktalarda oyuncuya sunulan bir menü ile yapılır.
-Oyundan birkaç ekran görüntüsü;
-![
-    
-](<Ekran görüntüsü 2025-05-22 163802-2.png>)
-![
-    
-](<Ekran görüntüsü 2025-05-22 163815-1.png>)
-![
-    
-](<Ekran görüntüsü 2025-05-22 163833.png>)
+
  Projeyi İndirme
 
 Projeyi GitHub’dan ya da başka bir depodan şu şekilde indirebilirsiniz:
@@ -57,5 +48,6 @@ https://icons8.com/icons/set/awake-person= Owner Karakteri
 https://www.vecteezy.com= Arka Plan İçin Görseller
 
 Oyuna https://RabiaCelep.github.io/JSOyun sitesinden ulaşabilirsiniz.
+Oyun tanıtım videosuna https://www.youtube.com/watch?v=Jqxy5bcxYWw  oluşabilirsiniz.
 
 
