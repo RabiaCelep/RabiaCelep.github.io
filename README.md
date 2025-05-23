@@ -8,9 +8,7 @@ Oyunda bir kedi karakterini kontrol edersiniz.Kedi karakteri sağ sol tuşlarıy
 Oyundan birkaç ekran görüntüsü;
 ![
     
-](<Ekran görüntüsü 2025-05-22 163802-2.png>)
-![
-    
+](<Ekran görüntüsü 2025-05-22 163802-2.png>) 
 ](<Ekran görüntüsü 2025-05-22 163815-1.png>)
 ![
     
